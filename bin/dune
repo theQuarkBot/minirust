@@ -1,0 +1,4 @@
+(executable
+ (public_name minirust)
+ (name main)
+ (libraries minirust))
